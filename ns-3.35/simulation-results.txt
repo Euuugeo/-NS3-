@@ -1,0 +1,6 @@
+Total Nodes: 10
+Total Sent Packets: 0
+Total Received Packets: 0
+Total Dropped Packets: 0
+Average Throughput: 0 Kbps
+Average Delay: 0 ms
